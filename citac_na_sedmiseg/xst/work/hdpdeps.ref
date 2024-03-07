@@ -1,0 +1,18 @@
+V3 11
+FL /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhd 2024/01/23.10:58:20 P.15xf
+EN work/citac 1706003937 \
+      FL /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/citac/Behavioral 1706003938 \
+      FL /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhd EN work/citac 1706003937
+FL /home/q13/Documents/papala/citac_na_sedmiseg/top.vhd 2024/01/23.09:25:01 P.15xf
+EN work/top 1706003941 FL /home/q13/Documents/papala/citac_na_sedmiseg/top.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/top/Behavioral 1706003942 \
+      FL /home/q13/Documents/papala/citac_na_sedmiseg/top.vhd EN work/top 1706003941 \
+      CP citac CP puls
+FL /home/q13/Documents/papala/puls.vhd 2024/01/23.09:36:01 P.15xf
+EN work/puls 1706003939 FL /home/q13/Documents/papala/puls.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623
+AR work/puls/Behavioral 1706003940 \
+      FL /home/q13/Documents/papala/puls.vhd EN work/puls 1706003939

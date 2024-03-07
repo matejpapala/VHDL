@@ -1,0 +1,22 @@
+V3 15
+FL /home/q13/Documents/papala/vytah/debouncer.vhd 2024/03/05.10:26:17 P.15xf
+EN work/debouncer 1709632337 FL /home/q13/Documents/papala/vytah/debouncer.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/NUMERIC_STD 1335251627
+AR work/debouncer/str 1709632338 \
+      FL /home/q13/Documents/papala/vytah/debouncer.vhd EN work/debouncer 1709632337
+FL /home/q13/Documents/papala/vytah/puls.vhd 2024/03/05.10:26:13 P.15xf
+EN work/puls 1709632335 FL /home/q13/Documents/papala/vytah/puls.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623
+AR work/puls/Behavioral 1709632336 \
+      FL /home/q13/Documents/papala/vytah/puls.vhd EN work/puls 1709632335
+FL /home/q13/Documents/papala/vytah/top.vhd 2024/03/05.10:35:40 P.15xf
+EN work/top 1709632339 FL /home/q13/Documents/papala/vytah/top.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/top/Behavioral 1709632340 \
+      FL /home/q13/Documents/papala/vytah/top.vhd EN work/top 1709632339 CP vytah \
+      CP puls CP debouncer
+FL /home/q13/Documents/papala/vytah/vytah.vhd 2024/03/05.10:51:58 P.15xf
+EN work/vytah 1709632333 FL /home/q13/Documents/papala/vytah/vytah.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/vytah/Behavioral 1709632334 \
+      FL /home/q13/Documents/papala/vytah/vytah.vhd EN work/vytah 1709632333

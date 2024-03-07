@@ -1,0 +1,10 @@
+EN puls NULL /home/q13/Documents/papala/posuvnyRegistr/puls.vhd sub00/vhpl04 1705395590
+AR debouncer str /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd sub00/vhpl07 1705395595
+EN top NULL /home/q13/Documents/papala/posuvnyRegistr/top.vhd sub00/vhpl08 1705395596
+EN had NULL /home/q13/Documents/papala/posuvnyRegistr/had.vhd sub00/vhpl00 1705395588
+AR puls behavioral /home/q13/Documents/papala/posuvnyRegistr/puls.vhd sub00/vhpl05 1705395591
+AR sm behavioral /home/q13/Documents/papala/posuvnyRegistr/sm.vhd sub00/vhpl03 1705395593
+EN sm NULL /home/q13/Documents/papala/posuvnyRegistr/sm.vhd sub00/vhpl02 1705395592
+AR had behavioral /home/q13/Documents/papala/posuvnyRegistr/had.vhd sub00/vhpl01 1705395589
+EN debouncer NULL /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd sub00/vhpl06 1705395594
+AR top behavioral /home/q13/Documents/papala/posuvnyRegistr/top.vhd sub00/vhpl09 1705395597

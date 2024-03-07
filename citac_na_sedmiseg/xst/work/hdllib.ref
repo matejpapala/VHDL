@@ -1,0 +1,6 @@
+EN puls NULL /home/q13/Documents/papala/puls.vhd sub00/vhpl02 1706003939
+AR citac behavioral /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhd sub00/vhpl01 1706003938
+EN top NULL /home/q13/Documents/papala/citac_na_sedmiseg/top.vhd sub00/vhpl04 1706003941
+AR puls behavioral /home/q13/Documents/papala/puls.vhd sub00/vhpl03 1706003940
+EN citac NULL /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhd sub00/vhpl00 1706003937
+AR top behavioral /home/q13/Documents/papala/citac_na_sedmiseg/top.vhd sub00/vhpl05 1706003942

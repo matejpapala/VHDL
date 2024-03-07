@@ -1,0 +1,3 @@
+vhdl work "puls.vhd"
+vhdl work "dynamickyDisplej.vhd"
+vhdl work "top.vhd"

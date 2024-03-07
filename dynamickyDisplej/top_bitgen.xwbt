@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/q13/Documents/papala/dynamickyDisplej/top.ncd
+OUTFILE=/home/q13/Documents/papala/dynamickyDisplej/top.bit
+FAMILY=Spartan3E
+PART=xc3s250e-4cp132
+WORKINGDIR=/home/q13/Documents/papala/dynamickyDisplej
+LICENSE=WebPack
+USER_INFO=210745664_0_0_552

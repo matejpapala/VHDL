@@ -1,0 +1,49 @@
+Release 14.1 - xst P.15xf (lin64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/q13/Documents/papala/posuvnyRegistr/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/q13/Documents/papala/posuvnyRegistr/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/q13/Documents/papala/posuvnyRegistr/had.vhd" in Library work.
+Architecture behavioral of Entity had is up to date.
+Compiling vhdl file "/home/q13/Documents/papala/posuvnyRegistr/puls.vhd" in Library work.
+Entity <puls> compiled.
+Entity <puls> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "/home/q13/Documents/papala/posuvnyRegistr/sm.vhd" in Library work.
+Architecture behavioral of Entity sm is up to date.
+Compiling vhdl file "/home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd" in Library work.
+Entity <debouncer> compiled.
+Entity <debouncer> (Architecture <str>) compiled.
+Compiling vhdl file "/home/q13/Documents/papala/posuvnyRegistr/top.vhd" in Library work.
+Entity <top> compiled.
+Entity <top> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> 
+
+
+Total memory usage is 565240 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

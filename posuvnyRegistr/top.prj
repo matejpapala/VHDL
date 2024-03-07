@@ -1,0 +1,5 @@
+vhdl work "sm.vhd"
+vhdl work "puls.vhd"
+vhdl work "had.vhd"
+vhdl work "debouncer.vhd"
+vhdl work "top.vhd"

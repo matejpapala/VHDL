@@ -1,0 +1,4 @@
+vhdl work "vytah.vhd"
+vhdl work "puls.vhd"
+vhdl work "debouncer.vhd"
+vhdl work "top.vhd"

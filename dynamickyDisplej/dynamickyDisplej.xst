@@ -1,0 +1,5 @@
+set -tmpdir "/home/q13/Documents/papala/dynamickyDisplej/xst/projnav.tmp"
+set -xsthdpdir "/home/q13/Documents/papala/dynamickyDisplej/xst"
+elaborate
+-ifn dynamickyDisplej.prj
+-ifmt mixed

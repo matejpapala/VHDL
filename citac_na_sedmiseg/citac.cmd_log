@@ -1,0 +1,1 @@
+vhdtdtfi -prj citac_na_sedmiseg -o /home/q13/Documents/papala/citac_na_sedmiseg/citac.vhi -module citac -template /var/Xilinx/14.1/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work citac.vhd 

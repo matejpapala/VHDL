@@ -1,0 +1,5 @@
+set -tmpdir "/home/q13/Documents/papala/vytah/xst/projnav.tmp"
+set -xsthdpdir "/home/q13/Documents/papala/vytah/xst"
+elaborate
+-ifn vytah.prj
+-ifmt mixed

@@ -1,0 +1,5 @@
+set -tmpdir "/home/q13/Documents/papala/posuvnyRegistr/xst/projnav.tmp"
+set -xsthdpdir "/home/q13/Documents/papala/posuvnyRegistr/xst"
+elaborate
+-ifn sm.prj
+-ifmt mixed

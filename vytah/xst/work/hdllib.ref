@@ -1,0 +1,8 @@
+EN puls NULL /home/q13/Documents/papala/vytah/puls.vhd sub00/vhpl02 1709632335
+AR debouncer str /home/q13/Documents/papala/vytah/debouncer.vhd sub00/vhpl05 1709632338
+EN top NULL /home/q13/Documents/papala/vytah/top.vhd sub00/vhpl06 1709632339
+AR puls behavioral /home/q13/Documents/papala/vytah/puls.vhd sub00/vhpl03 1709632336
+EN vytah NULL /home/q13/Documents/papala/vytah/vytah.vhd sub00/vhpl00 1709632333
+EN debouncer NULL /home/q13/Documents/papala/vytah/debouncer.vhd sub00/vhpl04 1709632337
+AR vytah behavioral /home/q13/Documents/papala/vytah/vytah.vhd sub00/vhpl01 1709632334
+AR top behavioral /home/q13/Documents/papala/vytah/top.vhd sub00/vhpl07 1709632340

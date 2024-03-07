@@ -1,0 +1,29 @@
+V3 19
+FL /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd 2024/01/16.09:31:55 P.15xf
+EN work/debouncer 1705395594 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/NUMERIC_STD 1335251627
+AR work/debouncer/str 1705395595 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhd \
+      EN work/debouncer 1705395594
+FL /home/q13/Documents/papala/posuvnyRegistr/had.vhd 2024/01/16.09:09:09 P.15xf
+EN work/had 1705395588 FL /home/q13/Documents/papala/posuvnyRegistr/had.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/NUMERIC_STD 1335251627
+AR work/had/Behavioral 1705395589 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/had.vhd EN work/had 1705395588
+FL /home/q13/Documents/papala/posuvnyRegistr/puls.vhd 2024/01/16.09:31:34 P.15xf
+EN work/puls 1705395590 FL /home/q13/Documents/papala/posuvnyRegistr/puls.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623
+AR work/puls/Behavioral 1705395591 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/puls.vhd EN work/puls 1705395590
+FL /home/q13/Documents/papala/posuvnyRegistr/sm.vhd 2024/01/16.09:30:23 P.15xf
+EN work/sm 1705395592 FL /home/q13/Documents/papala/posuvnyRegistr/sm.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/sm/Behavioral 1705395593 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/sm.vhd EN work/sm 1705395592
+FL /home/q13/Documents/papala/posuvnyRegistr/top.vhd 2024/01/16.09:59:44 P.15xf
+EN work/top 1705395596 FL /home/q13/Documents/papala/posuvnyRegistr/top.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/top/Behavioral 1705395597 \
+      FL /home/q13/Documents/papala/posuvnyRegistr/top.vhd EN work/top 1705395596 \
+      CP had CP puls CP sm CP debouncer

@@ -1,0 +1,1 @@
+vhdtdtfi -prj posuvnyRegistr -o /home/q13/Documents/papala/posuvnyRegistr/debouncer.vhi -module debouncer -template /var/Xilinx/14.1/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work debouncer.vhd 

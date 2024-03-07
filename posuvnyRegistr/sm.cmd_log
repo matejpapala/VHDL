@@ -1,0 +1,1 @@
+vhdtdtfi -prj posuvnyRegistr -o /home/q13/Documents/papala/posuvnyRegistr/sm.vhi -module sm -template /var/Xilinx/14.1/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work sm.vhd 

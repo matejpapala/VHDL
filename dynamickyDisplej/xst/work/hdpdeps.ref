@@ -1,0 +1,19 @@
+V3 11
+FL /home/q13/Documents/papala/dynamickyDisplej/dynamickyDisplej.vhd 2024/03/05.09:32:49 P.15xf
+EN work/dynamickyDisplej 1709627586 \
+      FL /home/q13/Documents/papala/dynamickyDisplej/dynamickyDisplej.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/dynamickyDisplej/Behavioral 1709627587 \
+      FL /home/q13/Documents/papala/dynamickyDisplej/dynamickyDisplej.vhd \
+      EN work/dynamickyDisplej 1709627586
+FL /home/q13/Documents/papala/dynamickyDisplej/puls.vhd 2024/03/05.09:30:35 P.15xf
+EN work/puls 1709627588 FL /home/q13/Documents/papala/dynamickyDisplej/puls.vhd \
+      PB ieee/std_logic_1164 1335251622 PB ieee/std_logic_arith 1335251623
+AR work/puls/Behavioral 1709627589 \
+      FL /home/q13/Documents/papala/dynamickyDisplej/puls.vhd EN work/puls 1709627588
+FL /home/q13/Documents/papala/dynamickyDisplej/top.vhd 2024/03/05.09:23:50 P.15xf
+EN work/top 1709627590 FL /home/q13/Documents/papala/dynamickyDisplej/top.vhd \
+      PB ieee/std_logic_1164 1335251622
+AR work/top/Behavioral 1709627591 \
+      FL /home/q13/Documents/papala/dynamickyDisplej/top.vhd EN work/top 1709627590 \
+      CP dynamickyDisplej CP puls

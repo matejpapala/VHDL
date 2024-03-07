@@ -1,0 +1,5 @@
+set -tmpdir "/home/q13/Documents/papala/citac_na_sedmiseg/xst/projnav.tmp"
+set -xsthdpdir "/home/q13/Documents/papala/citac_na_sedmiseg/xst"
+elaborate
+-ifn puls.prj
+-ifmt mixed
